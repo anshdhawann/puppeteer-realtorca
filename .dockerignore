@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.env
+*.env
+
+# Local output files - good to ignore for cleaner Docker image
+condo_report_input_data_v3.json
+condo_report_input_data.json
+condo_report_input_data_v2.json
+page1_listings.json
+processed_realtor_data.json
+processed_realtor_data_v2.json
+realtor_listings_perfect.json
+
+# macOS specific files
+.DS_Store
