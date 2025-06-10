@@ -1,0 +1,2431 @@
+{
+  "ErrorCode": {
+    "Id": 200,
+    "Description": "Success - OK",
+    "Status": "Pins-Via-Cache:false;Sidebar-Items-Via-Cache:0;",
+    "ProductName": "Realtor API 7 | 20250428.3 | 0167b08d047aec3d9c8e2c1a72a4288cfa13ec74 | Monday, April 28, 2025 1:17:06 PM",
+    "Version": "1.0.9249.31157"
+  },
+  "Paging": {
+    "RecordsPerPage": 12,
+    "CurrentPage": 1,
+    "TotalRecords": 32,
+    "MaxRecords": 600,
+    "TotalPages": 3,
+    "RecordsShowing": 32,
+    "Pins": 0
+  },
+  "Results": [
+    {
+      "Id": "28442908",
+      "MlsNumber": "A2229027",
+      "PublicRemarks": "This jaw-dropping 2-bedroom, 2-bathroom penthouse condo in the heart of Eau Claire offers the ultimate downtown lifestyle with a massive 400 sqft very private terrace (with water and gas BBQ hook-ups) that spans the full width of the unit and boasts unobstructed, panoramic views of the Bow River from the terrace and through wall-to-wall, floor-to-ceiling windows. Inside this extremely quiet home, you will find 9' ceilings, rich hardwood flooring, updated light fixtures, and a beautifully designed open-concept layout. The chef’s kitchen features marble countertops, a large island with breakfast bar, high-end Wolf and Sub-Zero appliances including a gas stove, panel-front refrigerator, and wine fridge, pantry, and stunning river views. The living and dining areas flow seamlessly together, perfect for entertaining or simply soaking in the scenery. The spacious primary bedroom is a true retreat with floor-to-ceiling river views, acesss to the terrace, a one-of-a-kind mural by a renowned Calgary mural artist, Tiffany Lynn Cuffley, and a custom walk-through closet with stylish cabinetry leading to a luxurious ensuite complete with dual sinks, marble counters, wallpaper, tiled shower, lighted mirrors, and a large soaker tub. The second bedroom, located on the opposite side of the condo, also enjoys river views and features a custom closet system, while the second bathroom includes marble countertops, tiled flooring, lighted mirrors, and a tiled shower, located conveniently next to the laundry closet. This unit comes with 2 underground parking stalls and 2 extra-large storage units, and residents enjoy premium amenities including a 24-hour concierge, gym, hot tub, sauna, social room, car wash bay in underground parking, and rentable guest suite. Located next to the Bow River pathway system, steps to Prince's Island Park, and all the shops and restaurants of downtown, this well-run building offers a truly unmatched blend of luxury, convenience, and natural beauty - where you  can enjoy watching wildlife and the changing seasons from the comfort of your home - and best of all, there is still new home warranty remaining for added peace of mind. Owner moved in in 2022. Storage locker: 71\" deep x 60\" long x 88\" high. Builder size of the property was listed at 1,026 sqft. (30671935)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2",
+        "SizeInterior": "984.08 sqft",
+        "StoriesTotal": "9",
+        "Type": "Apartment",
+        "Ammenities": "Car Wash, Exercise Centre, Guest Suite, Party Room, Recreation Centre, Sauna, Whirlpool",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "984 sqft",
+            "AreaUnformatted": "984 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2093109,
+          "Name": "Breanna Albrecht",
+          "Organization": {
+            "OrganizationID": 54575,
+            "Name": "RE/MAX First",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638400584400000000/lowres/1005258.jpg",
+            "Address": {
+              "AddressText": "115, 8820 BLACKFOOT TRAIL S.E.|CALGARY, Alberta T2J3J1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "278-2900",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "255-8606",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54575/remax-first-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "700-7123",
+              "AreaCode": "587",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "255-8606",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://linktr.ee/ateamcalgary",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "http://facebook.com/ateamyyc",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/breanna-albrecht-343b3081/",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "http://x.com/ateamyyc",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "http://instagram.com/ateamcalgary",
+              "WebsiteTypeId": "5"
+            },
+            {
+              "Website": "http://youtu.be/pb4kJz_e4XI?si=_1p1TnqTXFoT1AUu",
+              "WebsiteTypeId": "7"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574775961"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638416968000000000/lowres/1365569.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Breanna",
+          "LastName": "Albrecht",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2093109/breanna-albrecht-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+          "AgentPhotoLastUpdated": "2024-01-24 12:40:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638416968000000000/highres/1365569.jpg",
+          "RankMyAgentKey": "97280",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$875,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "902, 118 Waterfront Court SW|Calgary, Alberta T2P0W3",
+          "Longitude": "-114.06554531",
+          "Latitude": "51.052970501",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638851134922700000/reb9/highres/7/A2229027_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638851134922700000/reb9/medres/7/A2229027_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638851134922700000/reb9/lowres/7/A2229027_1.jpg",
+            "Description": "Overlooking the Bow River",
+            "LastUpdated": "2025-06-10 12:51:32 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Visitor Parking"
+          },
+          {
+            "Name": "Other"
+          },
+          {
+            "Name": "Underground"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Visitor Parking, Other, Underground",
+        "PriceUnformattedValue": "875000",
+        "ShortValue": "875K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://unbranded.youriguide.com/902_118_waterfront_ct_sw_calgary_ab/"
+      },
+      "PostalCode": "T2P0W3",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28442908/902-118-waterfront-court-sw-calgary-eau-claire",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-10 4:51:33 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28442908/902-118-waterfront-court-sw-calgary-eau-claire",
+      "RelativeURLFr": "/immobilier/28442908/902-118-waterfront-court-sw-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/902_118_waterfront_ct_sw_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 2,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/902_118_waterfront_ct_sw_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/902_118_waterfront_ct_sw_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "638851277158930000",
+      "TimeOnRealtor": "2 hours ago",
+      "Tags": [
+        {
+          "Label": "2 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28442907",
+      "MlsNumber": "A2229098",
+      "PublicRemarks": "Do you DREAM of inner city living, renovated kitchens, gorgeous downtown views, and attached garages? Welcome HOME.  Step inside to an open-concept kitchen and living area, ideal for entertaining or relaxing by the cozy natural gas fireplace.  The kitchen, the heart of the home, features sleek white quartz countertops, stainless steel appliances, and ample cabinetry – perfect for the modern chef.  The kitchen enjoys breathtaking views of the downtown, which only gets better when you step onto the ample balcony, with the added convenience of the gas outlet for the BBQ's. Upstairs you’ll find 2 bedrooms, 2 bathrooms; the master retreat is generously sized, with an even better view than kitchen, and a sumptuous bathroom.  The home includes a developed basement, offering additional living space for a home office, media room, or guest area.  Additional features include an attached single heated garage, ensuring comfort during Calgary’s winters, and added storage space for your convenience.  For your daily commute, rest easy knowing you are only  11 minutes to edge of downtown, while Stoney  Trail is  6  minutes away (Bow Trail exit).  Edworthy park starts only ¼ mile away and the ultimate weekend get-a-way, Banff, is only 6 2 minutes away.  Don’t miss your chance to live in a renovated home, with attached garage, minutes from work, and with stunning downtown views.  Call for your private viewing today. (30672005)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2",
+        "SizeInterior": "1354.79 sqft",
+        "StoriesTotal": "2",
+        "Type": "Row / Townhouse",
+        "Ammenities": "Other",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1355 sqft",
+            "AreaUnformatted": "1355 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1886334,
+          "Name": "Johanna Rodriguez",
+          "Organization": {
+            "OrganizationID": 269418,
+            "Name": "MaxWell Experts Plus Realty",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638404076400000000/lowres/1258401.jpg",
+            "Address": {
+              "AddressText": "705 EAST CHESTERMERE DRIVE|CHESTERMERE, Alberta T1X1A5",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "272-2141",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "272-2145",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/269418/maxwell-experts-plus-realty-705-east-chestermere-drive-chestermere-alberta-t1x1a5",
+            "PhotoLastupdate": "2024-01-09 2:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "618-5917",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "272-2145",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.johahomes.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/johahomes/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/johanna-rodriguez-23352520/",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://twitter.com/johannashomes",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "https://www.instagram.com/johahomes/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574805360"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS636453091800000000/lowres/1209185.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Johanna",
+          "LastName": "Rodriguez",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1886334/johanna-rodriguez-705-east-chestermere-drive-chestermere-alberta-t1x1a5",
+          "AgentPhotoLastUpdated": "2017-11-03 12:33:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636453091800000000/highres/1209185.jpg",
+          "RankMyAgentKey": "54767",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 1446900,
+          "Name": "Matthew Dekort",
+          "Organization": {
+            "OrganizationID": 269418,
+            "Name": "MaxWell Experts Plus Realty",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638404076400000000/lowres/1258401.jpg",
+            "Address": {
+              "AddressText": "705 EAST CHESTERMERE DRIVE|CHESTERMERE, Alberta T1X1A5",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "272-2141",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "272-2145",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/269418/maxwell-experts-plus-realty-705-east-chestermere-drive-chestermere-alberta-t1x1a5",
+            "PhotoLastupdate": "2024-01-09 2:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "680-2729",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "272-2145",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.matthewdekort.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "http://www.facebook.com/matthew.dekort",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "http://www.linkedin.com//pub/matthew-dekort/22/741/493",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "http://www.twitter.com/matthewdekort",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "https://www.instagram.com/mattdekortyyc",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574806073"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1094271.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Matthew",
+          "LastName": "Dekort",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1446900/matthew-dekort-705-east-chestermere-drive-chestermere-alberta-t1x1a5",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1094271.jpg",
+          "RankMyAgentKey": "51174",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$495,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "209 Patina Park SW|Calgary, Alberta T3H3E3",
+          "Longitude": "-114.170717286",
+          "Latitude": "51.056430503",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638851134941600000/reb9/highres/8/A2229098_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638851134941600000/reb9/medres/8/A2229098_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638851134941600000/reb9/lowres/8/A2229098_1.jpg",
+            "LastUpdated": "2025-06-10 12:51:34 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Garage"
+          },
+          {
+            "Name": "Heated Garage"
+          },
+          {
+            "Name": "Attached Garage",
+            "Spaces": "1"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Garage, Heated Garage, Attached Garage (1)",
+        "PriceUnformattedValue": "495000",
+        "ShortValue": "495K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown"
+      },
+      "PostalCode": "T3H3E3",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28442907/209-patina-park-sw-calgary-patterson",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-10 4:51:35 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28442907/209-patina-park-sw-calgary-patterson",
+      "RelativeURLFr": "/immobilier/28442907/209-patina-park-sw-calgary",
+      "Media": [],
+      "InsertedDateUTC": "638851276749100000",
+      "TimeOnRealtor": "2 hours ago",
+      "Tags": [
+        {
+          "Label": "2 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28442884",
+      "MlsNumber": "A2229527",
+      "PublicRemarks": "Welcome to University City! Enjoy the convenience of having everything you need just steps away from home – 1min from the CTRAIN station, 2 min drive to Crowchild, walk to the university, excellent cuisine, shopping, and close to Downtown! This contemporary 2 BED/1 BATH UNIT located on the 4th floor has floor-to-ceiling windows that give you extra natural lighting! Unit includes a TITLED UNDERGROUND parking stall and extra storage. The building is also equipped with a gym and security. You’ll also love the proximity to the child care, restaurants, coffee shops, gas stations, grocery stores, banking, McMahon Stadium, Hospitals, and even the pub! Perfect for professional and young families. Book a showing today! (30672411)",
+      "Building": {
+        "BathroomTotal": "1",
+        "Bedrooms": "2",
+        "SizeInterior": "622 sqft",
+        "StoriesTotal": "19",
+        "Type": "Apartment",
+        "Ammenities": "Exercise Centre",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "622 sqft",
+            "AreaUnformatted": "622 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2042792,
+          "Name": "Candace Wu",
+          "Organization": {
+            "OrganizationID": 242110,
+            "Name": "2% Realty",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638526080400000000/lowres/1234083.jpg",
+            "Address": {
+              "AddressText": "400, 909 17 Ave S.W.|CALGARY, Alberta T2T0A4",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "606-3500",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "239-4659",
+                "AreaCode": "888",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "554869748"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/242110/2-realty-400-909-17-ave-sw-calgary-alberta-t2t0a4",
+            "PhotoLastupdate": "2024-05-29 7:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "561-2456",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "239-4659",
+              "AreaCode": "888",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.perfecthomes.ca",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "469090289"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638404783200000000/lowres/1318655.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Candace",
+          "LastName": "Wu",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2042792/candace-wu-400-909-17-ave-sw-calgary-alberta-t2t0a4",
+          "AgentPhotoLastUpdated": "2024-01-10 10:12:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638404783200000000/highres/1318655.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$339,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "401, 3820 Brentwood Road NW|Calgary, Alberta T2L2L5",
+          "Longitude": "-114.129206073",
+          "Latitude": "51.086622981",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638851121676500000/reb9/highres/7/A2229527_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638851121676500000/reb9/medres/7/A2229527_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638851121676500000/reb9/lowres/7/A2229527_1.jpg",
+            "LastUpdated": "2025-06-10 12:29:27 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Underground"
+          }
+        ],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "AmmenitiesNearBy": "Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Underground",
+        "PriceUnformattedValue": "339900",
+        "ShortValue": "340K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown"
+      },
+      "PostalCode": "T2L2L5",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28442884/401-3820-brentwood-road-nw-calgary-brentwood",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-10 4:29:27 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28442884/401-3820-brentwood-road-nw-calgary-brentwood",
+      "RelativeURLFr": "/immobilier/28442884/401-3820-brentwood-road-nw-calgary",
+      "Media": [],
+      "InsertedDateUTC": "638851265676170000",
+      "TimeOnRealtor": "2 hours ago",
+      "Tags": [
+        {
+          "Label": "2 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28442389",
+      "MlsNumber": "A2228351",
+      "PublicRemarks": "Modern Comfort Meets Community Living in the Heart of McKenzie Towne – Prime Real Estate for First-Time Buyers! Step into the perfect blend of comfort, convenience, and community with this bright and beautifully maintained 2-bedroom, 1 - 1 ½ -bathroom townhome in the heart McKenzie Towne – one of Southeast Calgary’s most walkable, family-friendly neighborhoods. With assigned, secured, and heated underground parking + storage, and 927 sq ft of smart, functional living space, this home offers the ideal layout for young couples, remote workers, or anyone looking to break into the housing market without compromise. The open-concept kitchen and living area flow seamlessly onto a private balcony – great for morning coffees, evening wine, or a little container gardening. Both bedrooms are generously sized – use one as a cozy guest room, a dedicated home office, or future nursery. The well-appointed bathroom, in-suite stacked laundry, and ample storage throughout, add to the home’s comfort and convenience. You will also love the unbeatable location! This unit has generous parking availability right out front that ensures convenience at all hours. Just steps away you’ll find ALL AMENITIES, parks, playgrounds, pathways, hockey rink, skate park, and just a short walk to top-rated schools and daycares. HIGH STREET is just seconds away and is a vibrant commercial hub with shopping, SOBEY’S grocery, top rated pubs, restaurants, cafes, and local services. Calgary Transit is just up the block with quick and access to Deerfoot & Stoney Trail for easy commuting. Whether you’re starting your homeownership journey, adding to your investment portfolio, or simplifying your lifestyle, this townhome offers exceptional value in a vibrant, welcoming and beautiful established SE community. Don’t miss your chance to make this charming McKenzie Towne property your home – book your private showing today! (30670740)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2",
+        "SizeInterior": "927 sqft",
+        "StoriesTotal": "2",
+        "Type": "Row / Townhouse",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "927 sqft",
+            "AreaUnformatted": "927 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2157591,
+          "Name": "Corey Cameron",
+          "Organization": {
+            "OrganizationID": 275497,
+            "Name": "eXp Realty",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638599226400000000/lowres/1265827.jpg",
+            "Address": {
+              "AddressText": "700 - 1816 Crowchild Trail NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "262-7653",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "648-2765",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "563452819"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/275497/exp-realty-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2024-08-22 11:24:00 AM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "919-9193",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "648-2765",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://coreycameron.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/profile.php?id=1000844200",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/corey-cameron-ab96b44b",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://twitter.com/CoreyCameronYYC",
+              "WebsiteTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "517553635"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638180443800000000/lowres/1408881.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Corey",
+          "LastName": "Cameron",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2157591/corey-cameron-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "AgentPhotoLastUpdated": "2023-04-25 18:33:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638180443800000000/highres/1408881.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$369,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "12, 21 McKenzie Towne Gate SE|Calgary, Alberta T2Z0C5",
+          "Longitude": "-113.9620636",
+          "Latitude": "50.9152803",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638851013179800000/reb9/highres/1/A2228351_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638851013179800000/reb9/medres/1/A2228351_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638851013179800000/reb9/lowres/1/A2228351_1.jpg",
+            "LastUpdated": "2025-06-09 9:28:37 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Garage"
+          },
+          {
+            "Name": "Heated Garage"
+          },
+          {
+            "Name": "Street"
+          },
+          {
+            "Name": "Underground"
+          }
+        ],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "AmmenitiesNearBy": "Golf Course, Park, Playground, Recreation Nearby, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Garage, Heated Garage, Street, Underground",
+        "PriceUnformattedValue": "369900",
+        "ShortValue": "370K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "AlternateURL": {
+        "MapLink": "https://maps.app.goo.gl/3HEMa1sdQYeGHN9e9"
+      },
+      "PostalCode": "T2Z0C5",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28442389/12-21-mckenzie-towne-gate-se-calgary-mckenzie-towne",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-10 1:28:37 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28442389/12-21-mckenzie-towne-gate-se-calgary-mckenzie-towne",
+      "RelativeURLFr": "/immobilier/28442389/12-21-mckenzie-towne-gate-se-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "7",
+          "MediaCategoryURL": "https://maps.app.goo.gl/3HEMa1sdQYeGHN9e9",
+          "Description": "MapWebsite",
+          "Order": 6
+        }
+      ],
+      "InsertedDateUTC": "638851157179670000",
+      "TimeOnRealtor": "5 hours ago",
+      "Tags": [
+        {
+          "Label": "5 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28442305",
+      "MlsNumber": "A2229110",
+      "PublicRemarks": "Your Perfect Condo Awaits! Whether you're stepping into the market for the first time or expanding your investment portfolio, this exceptional 2 bedrooms, 2 bathrooms plus dan condo unit. Lovingly maintained You’ll be welcomed by a generous entryway with. The kitchen is smartly positioned near the entrance, making unloading groceries much easy. It features granite countertops, stainless steel appliances, an eating bar, and ample cabinetry—perfect for cooking and entertaining. The 4-piece bathroom is stylish and functional, with a granite vanity and a shower/tub combo and a ensuite washroom. To top it all off, this condo comes with two parking stalls This is more than just a condo—it's a smart move. Contact your favorite realtor today and book a private showing! (30671415)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2",
+        "SizeInterior": "756 sqft",
+        "StoriesTotal": "4",
+        "Type": "Apartment",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "756 sqft",
+            "AreaUnformatted": "756 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2171149,
+          "Name": "Waja Feroz",
+          "Organization": {
+            "OrganizationID": 166998,
+            "Name": "RE/MAX Real Estate (Mountain View)",
+            "Address": {
+              "AddressText": "101, 110 COUNTRY HILLS LANDING NW|CALGARY, Alberta T3K5P3",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "247-5178",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/166998/remax-real-estate-mountain-view-101-110-country-hills-landing-nw-calgary-alberta-t3k5p3",
+            "PhotoLastupdate": "2025-05-01 3:47:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "700-4444",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://wajahomes.ca/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/wajatherealtor",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/waja-feroz-83992a246/",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://twitter.com/wajatherealtor",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "https://www.instagram.com/wajatherealtor/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574810236"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638336623200000000/lowres/1421660.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Waja",
+          "LastName": "Feroz",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2171149/waja-feroz-101-110-country-hills-landing-nw-calgary-alberta-t3k5p3",
+          "AgentPhotoLastUpdated": "2023-10-23 12:52:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638336623200000000/highres/1421660.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$317,998",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "315, 7130 80 Ave Avenue NE|Calgary, Alberta T3J0N5",
+          "Longitude": "-113.933926",
+          "Latitude": "51.1254808",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638851006987930000/reb9/highres/0/A2229110_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638851006987930000/reb9/medres/0/A2229110_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638851006987930000/reb9/lowres/0/A2229110_1.jpg",
+            "LastUpdated": "2025-06-09 9:18:18 PM",
+            "TypeId": "0"
+          }
+        ],
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "PriceUnformattedValue": "317998",
+        "ShortValue": "318K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown"
+      },
+      "PostalCode": "T3J0N5",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28442305/315-7130-80-ave-avenue-ne-calgary-saddle-ridge",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-10 1:18:18 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28442305/315-7130-80-ave-avenue-ne-calgary-saddle-ridge",
+      "RelativeURLFr": "/immobilier/28442305/315-7130-80-ave-avenue-ne-calgary",
+      "Media": [],
+      "InsertedDateUTC": "638851150987870000",
+      "TimeOnRealtor": "5 hours ago",
+      "Tags": [
+        {
+          "Label": "5 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28442236",
+      "MlsNumber": "A2229470",
+      "PublicRemarks": "Beltline - #2405, 220 12 Avenue SE: Experience elevated urban living in this stunning Skysuite at Keynote One, perfectly positioned in Calgary’s vibrant Beltline. This spacious two-bedroom plus den residence features floor-to-ceiling windows overlooking Stampede Park and offering breathtaking views that stretch from the mountains to the river. Designed for both comfort and sophistication, the kitchen features granite countertops and backsplash, ceiling-height cabinetry, and upgraded appliances, along with a generous island that serves as the perfect gathering space. The open-concept dining area gives access to your large balcony, which includes a gas BBQ hookup and provides the perfect spot to unwind while taking in the views. The living room is warm and inviting, anchored by a striking double-sided fireplace that also enhances the ambiance of the primary suite. Here, you’ll find a spacious walk-in closet, a spa-like five-piece ensuite with heated floors, and an additional private balcony - your own retreat within the city. The second bedroom and bathroom are thoughtfully placed on the opposite end of the suite, ensuring privacy for guests or family members. Over $50,000 in high-end built-ins in nearly every space elevate this home’s functionality, with custom Shelf Genie organizers, a beautifully integrated desk and cabinetry in the office/den, a built-in dresser in the guest bedroom, a fully optimized walk-in closet in the primary suite, and the list goes on. Additional thoughtful upgrades include under-cabinet lighting and a Kinetico-5 water filtration system. This unit includes titled parking conveniently located near the elevator, and with possibilities to rent additional stalls. There is also a secured and titled storage locker on parking level one. Residents of Keynote One enjoy an array of premium amenities, including two state-of-the-art fitness centers, guest suites, a resident’s lounge and rooftop oasis (with a BBQ patio!), and secure bike storage. The bu ilding is expertly managed and cared for and has a full-time on-site manager, ensuring a well-maintained and hassle-free living experience. With Sunterra Market, Starbucks, and 5 Vines just downstairs, and easy access to public transportation, entertainment venues at Stampede Park and the up-and-coming Scotia Place, and some of Calgary’s best restaurants, this location offers the ultimate urban lifestyle. Whether you’re seeking a stylish retreat or a vibrant downtown experience, Keynote One delivers the perfect balance of modern luxury and city convenience. Skysuites rarely come available in this highly sought after highrise, book your showing today! (30671706)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2",
+        "SizeInterior": "1425.05 sqft",
+        "StoriesTotal": "26",
+        "Type": "Apartment",
+        "Ammenities": "Exercise Centre, Guest Suite, Party Room, Recreation Centre",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1425 sqft",
+            "AreaUnformatted": "1425 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1959981,
+          "Name": "Scott Brayshaw",
+          "Organization": {
+            "OrganizationID": 256339,
+            "Name": "RE/MAX iRealty Innovations",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638400584400000000/lowres/1212482.jpg",
+            "Address": {
+              "AddressText": "100, 1301 8 STREET S.W.|CALGARY, Alberta T2R1B7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "228-5557",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "228-5425",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "541447957"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/256339/remax-irealty-innovations-100-1301-8-street-sw-calgary-alberta-t2r1b7",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "988-6835",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "228-5425",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://scottbrayshaw.realtor/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/ScottBrayshawRealEstate",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/scott-brayshaw-a511634/",
+              "WebsiteTypeId": "3"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574898727"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638052504600000000/lowres/1250279.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Scott",
+          "LastName": "Brayshaw",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1959981/scott-brayshaw-100-1301-8-street-sw-calgary-alberta-t2r1b7",
+          "AgentPhotoLastUpdated": "2022-11-28 16:41:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638052504600000000/highres/1250279.jpg",
+          "RankMyAgentKey": "31587",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$799,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "2405, 220 12 Avenue SE|Calgary, Alberta T2G0R5",
+          "Longitude": "-114.05921241",
+          "Latitude": "51.041882142",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638850988409330000/reb9/highres/0/A2229470_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638850988409330000/reb9/medres/0/A2229470_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638850988409330000/reb9/lowres/0/A2229470_1.jpg",
+            "LastUpdated": "2025-06-09 8:47:20 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Underground"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "AmmenitiesNearBy": "Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Underground",
+        "PriceUnformattedValue": "799900",
+        "ShortValue": "800K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/2405_220_12_ave_se_calgary_ab/"
+      },
+      "PostalCode": "T2G0R5",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28442236/2405-220-12-avenue-se-calgary-beltline",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-10 12:47:20 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28442236/2405-220-12-avenue-se-calgary-beltline",
+      "RelativeURLFr": "/immobilier/28442236/2405-220-12-avenue-se-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/2405_220_12_ave_se_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 2,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/2405_220_12_ave_se_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/2405_220_12_ave_se_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "638851132409170000",
+      "TimeOnRealtor": "6 hours ago",
+      "Tags": [
+        {
+          "Label": "6 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28442219",
+      "MlsNumber": "A2228687",
+      "PublicRemarks": "LUXURY TWO BEDROOM TWO BATH CONDO IN “THE PARK”.  Amenity-rich building located right across from Central Memorial Park and public tennis courts.  Steps from everything – downtown offices, restaurants and retail on 17th Avenue.  This condo offers a FITNESS ROOM, SOCIAL ROOM WITH ROOF TOP GARDEN AND BARBECUE AREA, GUEST SUITE, BIKE STORAGE, CONCIERGE.  This unit offers unobstructed views of the park and tennis courts across the street (designated historical sites to the north and east protect the view).  The living/ dining area is flooded with light, the kitchen offers stainless steel appliances (dishwasher is one year old), granite counters, lots of cupboard space. The primary bedroom has a 4-piece ensuite and walk-in closet.  A good-sized second bedroom and second bath with granite counters.  Full-size stacking washer and dryer.  Titled underground parking and guest parking too! (30670906)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2",
+        "SizeInterior": "778.49 sqft",
+        "StoriesTotal": "18",
+        "Type": "Apartment",
+        "UnitTotal": "150",
+        "Ammenities": "Guest Suite, Party Room",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "778 sqft",
+            "AreaUnformatted": "778 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1444809,
+          "Name": "Ellyn Mendham",
+          "Organization": {
+            "OrganizationID": 54519,
+            "Name": "RE/MAX Realty Professionals",
+            "Address": {
+              "AddressText": "#10, 6020 - 1A STREET S.W.|CALGARY, Alberta T2H0G3",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "259-4141",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54519/remax-realty-professionals-10-6020-1a-street-sw-calgary-alberta-t2h0g3",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "804-7777",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.calgaryrealestatesolutions.com/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "517549429"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1094401.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Ellyn",
+          "LastName": "Mendham",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1444809/ellyn-mendham-10-6020-1a-street-sw-calgary-alberta-t2h0g3",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1094401.jpg",
+          "RankMyAgentKey": "24596",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 1444908,
+          "Name": "Tom Westcott",
+          "Organization": {
+            "OrganizationID": 54519,
+            "Name": "RE/MAX Realty Professionals",
+            "Address": {
+              "AddressText": "#10, 6020 - 1A STREET S.W.|CALGARY, Alberta T2H0G3",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "259-4141",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54519/remax-realty-professionals-10-6020-1a-street-sw-calgary-alberta-t2h0g3",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "540-0754",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.calgaryrealestatesolutions.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "http://www.facebook.com/pages/Calgary-Relocation-Specialists-Ellyn-Mendham-Tom-Westcott/183792388310425",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "http://www.linkedin.com//pub/tom-westcott/22/ba7/345",
+              "WebsiteTypeId": "3"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574820792"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS636541261800000000/lowres/1013777.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Tom",
+          "LastName": "Westcott",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1444908/tom-westcott-10-6020-1a-street-sw-calgary-alberta-t2h0g3",
+          "AgentPhotoLastUpdated": "2018-02-13 13:43:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636541261800000000/highres/1013777.jpg",
+          "RankMyAgentKey": "24596",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$399,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "507, 303 13 Avenue SW|Calgary, Alberta T2R0Y9",
+          "Longitude": "-114.068791495",
+          "Latitude": "51.040294809",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638850975840430000/reb9/highres/7/A2228687_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638850975840430000/reb9/medres/7/A2228687_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638850975840430000/reb9/lowres/7/A2228687_1.jpg",
+            "Description": "Front Entry",
+            "LastUpdated": "2025-06-09 8:26:24 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Underground"
+          }
+        ],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "AmmenitiesNearBy": "Recreation Nearby, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Underground",
+        "PriceUnformattedValue": "399000",
+        "ShortValue": "399K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown"
+      },
+      "PostalCode": "T2R0Y9",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28442219/507-303-13-avenue-sw-calgary-beltline",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-10 12:26:24 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28442219/507-303-13-avenue-sw-calgary-beltline",
+      "RelativeURLFr": "/immobilier/28442219/507-303-13-avenue-sw-calgary",
+      "Media": [],
+      "InsertedDateUTC": "638851119840270000",
+      "TimeOnRealtor": "6 hours ago",
+      "Tags": [
+        {
+          "Label": "6 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28442190",
+      "MlsNumber": "A2221436",
+      "PublicRemarks": "RARE FIND! 1000+ sqft CONDO with gorgeous, unobstructed South AND West Views from TWO massive balconies! SW CORNER END UNIT in prestigious Cameron Court, Lower Mount Royal. IN-SUITE LAUNDRY, TWO BATHROOMS, One bedroom PLUS DEN/OFFICE/NOOK area that could be re-imagined as a SECOND BEDROOM (see drawing in photos #46) with its own balcony and closet. SUPERB LOCATION! Lower Mount Royal is one of the top 10 most walkable neighbourhoods... just steps from 17th Avenue, 10 minutes to Marda Loop and the downtown core, an easy jaunt to all amenities including vibrant shops, services, restaurants, coffee shops, public transportation and groceries (Co-op, Safeway and Save on Foods). Listen to the birds chirping in the mature trees surrounding the complex while you enjoy a morning java and stellar views from the privacy of your own big, beautiful balconies where you have a 180 degree, clear view of downtown, the Foothills Hospital, the University buildings, McMahon stadium and the Calgary Stampede Grounds. The beautiful brick façade of only 20 units runs five stories high and wraps around the entire edifice. This bright, sunny condo has a dedicated living room, dining room and kitchen with a connected office/den or breakfast nook, a 4-piece private bathroom. The second 3-piece en-suite bathroom is in the large primary bedroom that also has 2 walk in his/hers closets and a cushioned window bench (extra storage here) where you can relax and read your favourite novel.  The fireplace is currently decommissioned, but could either be entirely removed for more floor space or remodeled to fit an electric fireplace. Upgrades include beautiful Brazilian hardwood flooring, newer windows & 2 balcony doors (w/in 5yrs),  all window coverings (w/in 3yrs), fresh paint, newer stove and more… Must be seen to be appreciated. There is even a big laundry room with extra in-suite storage, an assigned, underground, heated parking stall (#19), storage locker (#9) and bicycle storage. You can relax, su nbathe or entertain friends and family on the two roof top patios, again with unobstructed views from every direction! The top floor #5, hosts the common lounge area library/billiards room with games, books, pool table and 2 washrooms. The main floor has a spa/exercise room, mail area and storage. It really has everything you could want for your new lifestyle. Don't miss out on this beauty! Book to view today! (30663626)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "1",
+        "SizeInterior": "1016 sqft",
+        "StoriesTotal": "5",
+        "Type": "Apartment",
+        "Ammenities": "Exercise Centre",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1016 sqft",
+            "AreaUnformatted": "1016 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1530040,
+          "Name": "Monalei D. Dallmann",
+          "Organization": {
+            "OrganizationID": 54634,
+            "Name": "MaxWell Canyon Creek",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638781501000000000/lowres/1005234.jpg",
+            "Address": {
+              "AddressText": "#203, 20 SUNPARK PLAZA SE|CALGARY, Alberta T2X3T2",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "278-8899",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54634/maxwell-canyon-creek-203-20-sunpark-plaza-se-calgary-alberta-t2x3t2",
+            "PhotoLastupdate": "2025-03-21 10:35:00 AM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "614-5884",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574632139"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638079084600000000/lowres/1141270.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Monalei",
+          "LastName": "Dallmann",
+          "CccMember": true,
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1530040/monalei-dallmann-203-20-sunpark-plaza-se-calgary-alberta-t2x3t2",
+          "AgentPhotoLastUpdated": "2022-12-29 11:01:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638079084600000000/highres/1141270.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$379,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "405, 1313 Cameron Avenue SW|Calgary, Alberta T2T0L2",
+          "Longitude": "-114.092508205",
+          "Latitude": "51.036208957",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638850986618430000/reb9/highres/6/A2221436_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638850986618430000/reb9/medres/6/A2221436_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638850986618430000/reb9/lowres/6/A2221436_1.jpg",
+            "LastUpdated": "2025-06-09 8:44:21 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Street"
+          },
+          {
+            "Name": "Underground"
+          }
+        ],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Street, Underground",
+        "PriceUnformattedValue": "379000",
+        "ShortValue": "379K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown"
+      },
+      "AlternateURL": {
+        "BrochureLink": "https://tour.virtualrealestatemarketing.com/delivery/356230",
+        "VideoLink": "https://tour.virtualrealestatemarketing.com/cvt/356230"
+      },
+      "PostalCode": "T2T0L2",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28442190/405-1313-cameron-avenue-sw-calgary-lower-mount-royal",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-10 12:44:25 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28442190/405-1313-cameron-avenue-sw-calgary-lower-mount-royal",
+      "RelativeURLFr": "/immobilier/28442190/405-1313-cameron-avenue-sw-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://tour.virtualrealestatemarketing.com/cvt/356230",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "Other"
+        },
+        {
+          "MediaCategoryId": "4",
+          "MediaCategoryURL": "https://tour.virtualrealestatemarketing.com/delivery/356230",
+          "Description": "SalesBrochureWebsite",
+          "Order": 4
+        }
+      ],
+      "InsertedDateUTC": "638851114412470000",
+      "TimeOnRealtor": "6 hours ago",
+      "Tags": [
+        {
+          "Label": "6 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28441944",
+      "MlsNumber": "A2228165",
+      "PublicRemarks": "Have you been dreaming about a new lifestyle with fewer chores around the house and and more time to work on your golf game?  Do you love the idea of winter getaways while someone else clears the snow off your sidewalk and driveway?  Would you like a walkout bungalow villa in the Hamptons (backing on the golf course) that won't break the bank?  Come see 169 Hamptons Link NW.  The bungalow villas at 'La Vita' have great exterior appeal, both from the street and the golf course.  Tile roofing and stucco siding are both upscale and  low-maintenance.  With just under 1200 SQ.FT.. on the main level (plus a finished basement), you can upgrade your lifestyle while downsizing your space.   Park your vehicles in the comfort of the insulated and drywalled double attached garage.  Step in the front door and you will instantly appreciate the near-flawless, warm-toned, site-finished hardwood flooring that runs through most of the main level and down the stairs to the basement!  With a sunny southeast exposure, this villa is nice and bright on both levels.  The kitchen has a central island with eating bar, plus a great corner pantry.  Natural wood exteriors adorn the cabinets (plus crown molding at the upper cabinets for classic elegance).  Nine foot ceilings make the home feel even more spacious!  The living room has a cozy corner fireplace (natural gas) to keep you comfy all year round.   Step out onto the back deck which has a durable and low-maintenance vinyl surface with aluminum railing & glass inserts.  You will love having a view that will make you want to stay outdoors all summer long!  Gas line for your BBQ.   Whether you still work a bit for a living or just want a separate reading or TV room, the office is perfectly situated near the front entry.  The half bathroom for your guests is nicely tucked away from the kitchen and living room.   At the end of the day, enjoy your personal retreat in your primary bedroom (which is large enough for your king bed), with double cl osets and a 4-piece ensuite bathroom!  Head downstairs to the walkout level to find another bedroom, full bathroom, large rec room, and an additional hobby or exercise space.  There is plenty of storage so that downsizing is not such a shock to the system :)  You could create additional developed space if you don't need a large storage area.   The condo fees here are not too painful, and the benefit is great.  Sip your coffee while the lawn and snow are managed by others.   It's not too often that a villa at this price becomes available on the Hamptons Golf Course.   Book your showing today! (30670109)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "1 + 1",
+        "SizeInterior": "1177 sqft",
+        "StoriesTotal": "1",
+        "Type": "Row / Townhouse",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1177 sqft",
+            "AreaUnformatted": "1177 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1447367,
+          "Name": "Brian Selders",
+          "Organization": {
+            "OrganizationID": 299817,
+            "Name": "RE/MAX Complete Realty",
+            "Address": {
+              "AddressText": "29A  Elizabeth Street|Okotoks, Alberta T1S1A8",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "861-3498",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/299817/remax-complete-realty-29a-elizabeth-street-okotoks-alberta-t1s1a8",
+            "PhotoLastupdate": "2025-03-13 3:44:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "585-3416",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://calgary-villa-realtor-brian.ca/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574597004"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638332273800000000/lowres/1094232.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Brian",
+          "LastName": "Selders",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1447367/brian-selders-29a-elizabeth-street-okotoks-alberta-t1s1a8",
+          "AgentPhotoLastUpdated": "2023-10-18 12:03:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638332273800000000/highres/1094232.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$725,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "169 Hamptons Link NW|Calgary, Alberta T3A5V9",
+          "Longitude": "-114.1406241",
+          "Latitude": "51.1439547",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638850943749100000/reb9/highres/5/A2228165_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638850943749100000/reb9/medres/5/A2228165_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638850943749100000/reb9/lowres/5/A2228165_1.jpg",
+            "LastUpdated": "2025-06-09 7:32:54 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "4",
+        "TypeId": "300",
+        "OwnershipType": "Bare Land Condo",
+        "AmmenitiesNearBy": "Golf Course, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Attached Garage (2)",
+        "PriceUnformattedValue": "725000",
+        "ShortValue": "725K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "305 m2|0-4,050 sqft",
+        "SizeFrontage": "9.76 m"
+      },
+      "PostalCode": "T3A5V9",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28441944/169-hamptons-link-nw-calgary-hamptons",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-09 11:32:56 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28441944/169-hamptons-link-nw-calgary-hamptons",
+      "RelativeURLFr": "/immobilier/28441944/169-hamptons-link-nw-calgary",
+      "Media": [],
+      "InsertedDateUTC": "638851086136170000",
+      "TimeOnRealtor": "7 hours ago",
+      "Tags": [
+        {
+          "Label": "7 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28441926",
+      "MlsNumber": "A2227228",
+      "PublicRemarks": "Welcome to this beautiful townhouse in the desirable community of Crestmont! With over 1800 SQFT of total developed living space, this 4-bedroom, 3.5-bathroom property offers comfort, style, and functionality which is perfect for families and investors. The main floor features an open concept layout with a spacious living room that flows into a stunning kitchen—complete with solid wood cabinetry, soft-close hinges, stainless steel appliances, and quartz countertops—creating the perfect space for entertaining or enjoying family meals. Upstairs, you'll find the spacious primary bedroom with an ensuite, two additional bedrooms, a full bathroom, an office/den area and access to the large balcony.The fully developed basement includes a large bedroom and a full bathroom, ideal for a home office, or additional living space. Stay cool in the summer with the added A/C, and enjoy the outdoors from your large balcony on the second floor. A double attached garage provides convenience and extra storage. Located just 15 minutes from Superstore, GoodLife, and the Calgary Farmers’ Market, and a little over 20 minutes to downtown, this home offers a peaceful suburban setting with easy access to Stoney Trail and a quick escape to the mountains! (30669154)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "3 + 1",
+        "SizeInterior": "1430.2 sqft",
+        "StoriesTotal": "2",
+        "Type": "Row / Townhouse",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1430 sqft",
+            "AreaUnformatted": "1430 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2028187,
+          "Name": "Dusko Sremac",
+          "Organization": {
+            "OrganizationID": 291033,
+            "Name": "Real Broker",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638798091000000000/lowres/1393265.jpg",
+            "Address": {
+              "AddressText": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "623-6900",
+                "AreaCode": "855",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574716474"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "http://www.joinreal.com/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/291033/real-broker-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2025-04-09 3:25:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "988-0033",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.repcalgaryhomes.ca/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/repyyc",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.calgaryluxuryrealestate.com/",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://www.twitter.com/repyyc",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "https://www.instagram.com/duskosremac_repyyc/",
+              "WebsiteTypeId": "5"
+            },
+            {
+              "Website": "https://www.youtube.com/@Dusko-CalgaryHomes",
+              "WebsiteTypeId": "7"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574690857"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638179435800000000/lowres/1307446.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Dusko",
+          "LastName": "Sremac",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2028187/dusko-sremac-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "AgentPhotoLastUpdated": "2023-04-24 14:33:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638179435800000000/highres/1307446.jpg",
+          "RankMyAgentKey": "37590",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 2227004,
+          "Name": "Luis Banaj",
+          "Organization": {
+            "OrganizationID": 291033,
+            "Name": "Real Broker",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638798091000000000/lowres/1393265.jpg",
+            "Address": {
+              "AddressText": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "623-6900",
+                "AreaCode": "855",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574716474"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "http://www.joinreal.com/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/291033/real-broker-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2025-04-09 3:25:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "667-9901",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "568213831"
+            }
+          ],
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Luis",
+          "LastName": "Banaj",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2227004/luis-banaj-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$600,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "35 Crestbrook Drive SW|Calgary, Alberta T3B6L1",
+          "Longitude": "-114.271883338",
+          "Latitude": "51.085067058",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638850940551600000/reb9/highres/8/A2227228_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638850940551600000/reb9/medres/8/A2227228_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638850940551600000/reb9/lowres/8/A2227228_1.jpg",
+            "LastUpdated": "2025-06-09 7:27:35 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Bare Land Condo",
+        "AmmenitiesNearBy": "Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Attached Garage (2)",
+        "PriceUnformattedValue": "600000",
+        "ShortValue": "600K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "1 m2|0-4,050 sqft",
+        "SizeFrontage": "5.99 m"
+      },
+      "AlternateURL": {
+        "BrochureLink": "https://docs.repyyc.ca/35-crestbrook-dr-sw",
+        "PhotoLink": "https://home.newlisting.io/35crestbrookdrsw",
+        "VideoLink": "https://youtu.be/v18KmofvL-s"
+      },
+      "PostalCode": "T3B6L1",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28441926/35-crestbrook-drive-sw-calgary-crestmont",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-09 11:27:35 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28441926/35-crestbrook-drive-sw-calgary-crestmont",
+      "RelativeURLFr": "/immobilier/28441926/35-crestbrook-drive-sw-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youtu.be/v18KmofvL-s",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "Youtube"
+        },
+        {
+          "MediaCategoryId": "4",
+          "MediaCategoryURL": "https://docs.repyyc.ca/35-crestbrook-dr-sw",
+          "Description": "SalesBrochureWebsite",
+          "Order": 4
+        },
+        {
+          "MediaCategoryId": "5",
+          "MediaCategoryURL": "https://home.newlisting.io/35crestbrookdrsw",
+          "Description": "AdditionalPicturesWebsite",
+          "Order": 5
+        }
+      ],
+      "InsertedDateUTC": "638851084551500000",
+      "TimeOnRealtor": "7 hours ago",
+      "Tags": [
+        {
+          "Label": "7 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28441701",
+      "MlsNumber": "A2229218",
+      "PublicRemarks": "**SHOWHOME OPEN EVERY THURSDAY FRIDAY 3-6 PM and SATURDAY SUNDAY 11-2 PM** Experience elevated luxury in your very own townhome, the first of its kind in Northwest Calgary. Every unit offers 9-foot ceilings on each level and large windows that fill the space with natural light all day long. The main floor features a bedroom with a private 4-piece ensuite, a separate entrance for added flexibility, and a single attached garage with bonus storage. The open-concept second floor includes luxury vinyl plank flooring, quartz countertops, full-size stainless steel appliances, a large island for entertaining, and a true walk-in pantry with plenty of shelving. Upstairs, you'll find two spacious bedrooms, each with its own ensuite bathroom so you never have to share again. A versatile den offers extra storage or can be used as an office, reading nook, or hobby space. Multiple units and price points are available, including end units and luxurious rooftop patios. Reach out today to see what’s available! *Photos are of show home and may not depict exact finishings of current unit, listing agent to find out what finishings are available. *SHOWHOME Address: 349 Sage Hill Rise (30670919)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "3",
+        "SizeInterior": "1610 sqft",
+        "StoriesTotal": "3",
+        "Type": "Row / Townhouse",
+        "UnitTotal": "10000",
+        "Ammenities": "Other",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1610 sqft",
+            "AreaUnformatted": "1610 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2224593,
+          "Name": "Melissa Sanregret",
+          "Organization": {
+            "OrganizationID": 291033,
+            "Name": "Real Broker",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638798091000000000/lowres/1393265.jpg",
+            "Address": {
+              "AddressText": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "623-6900",
+                "AreaCode": "855",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574716474"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "http://www.joinreal.com/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/291033/real-broker-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2025-04-09 3:25:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "886-3621",
+              "AreaCode": "780",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "570632648"
+            }
+          ],
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Melissa",
+          "LastName": "Sanregret",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2224593/melissa-sanregret-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 2032335,
+          "Name": "Brad McCallum",
+          "Organization": {
+            "OrganizationID": 291033,
+            "Name": "Real Broker",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638798091000000000/lowres/1393265.jpg",
+            "Address": {
+              "AddressText": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "623-6900",
+                "AreaCode": "855",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574716474"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "http://www.joinreal.com/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/291033/real-broker-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2025-04-09 3:25:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "862-4646",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.calgaryyycrealestate.com/schedule",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/brad.mccallum.remax/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/brad-mccallum-08a8ab1b/",
+              "WebsiteTypeId": "3"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574459860"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS637225687800000000/lowres/1309550.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Brad",
+          "LastName": "McCallum",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2032335/brad-mccallum-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "AgentPhotoLastUpdated": "2020-04-15 17:33:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637225687800000000/highres/1309550.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$549,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "235 sage hill Rise NW|Calgary, Alberta t3r0z8",
+          "Longitude": "-114.1368388",
+          "Latitude": "51.173966",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638850916535700000/reb9/highres/8/A2229218_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638850916535700000/reb9/medres/8/A2229218_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638850916535700000/reb9/lowres/8/A2229218_1.jpg",
+            "LastUpdated": "2025-06-09 6:47:33 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "1"
+          }
+        ],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Bare Land Condo",
+        "AmmenitiesNearBy": "Park, Playground, Recreation Nearby, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Attached Garage (1)",
+        "PriceUnformattedValue": "549900",
+        "ShortValue": "550K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "1661 sqft|0-4,050 sqft",
+        "SizeFrontage": "4.08 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://www.youtube.com/watch?v=gJP9JJEFmRM"
+      },
+      "PostalCode": "t3r0z8",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28441701/235-sage-hill-rise-nw-calgary-sage-hill",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-09 10:47:33 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28441701/235-sage-hill-rise-nw-calgary-sage-hill",
+      "RelativeURLFr": "/immobilier/28441701/235-sage-hill-rise-nw-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://www.youtube.com/watch?v=gJP9JJEFmRM",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "Youtube"
+        }
+      ],
+      "InsertedDateUTC": "638851060535600000",
+      "TimeOnRealtor": "8 hours ago",
+      "Tags": [
+        {
+          "Label": "8 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28441500",
+      "MlsNumber": "A2229303",
+      "PublicRemarks": "73 Tararidge Circle NE | Fully Developed Bungalow Villa Style Home | Located In Fresco Gardens In The Heart Of Taradale | Charming Home Features Over 2,000 SQ FT Of Living Space With A Bright, Open-Concept Layout | Main Floor Features A Vaulted Ceiling, Main Floor Laundry, Kitchen With Pantry & Breakfast Bar, Bright Living Room, With Gas Fireplace & Garden Door To Private Deck Perfect For Entertaining | Primary Bedroom With 4 PCE Ensuite & Separate Large Walk-In Closet | Enjoy The Ease Of Main-Floor Living, A Low Maintenance Yard, & Front Attached Single Garage For Added Convenience | The Finished Basement Offers Additional Living Space & Ample Storage | Ideally Located Close To Schools, Parks, Shopping, Public Transit, & All The Amenities. (30670803)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "2",
+        "SizeInterior": "1071.51 sqft",
+        "StoriesTotal": "1",
+        "Type": "Row / Townhouse",
+        "UnitTotal": "34",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1072 sqft",
+            "AreaUnformatted": "1072 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1445413,
+          "Name": "Deric A. Burton",
+          "Organization": {
+            "OrganizationID": 291033,
+            "Name": "Real Broker",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638798091000000000/lowres/1393265.jpg",
+            "Address": {
+              "AddressText": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "623-6900",
+                "AreaCode": "855",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574716474"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "http://www.joinreal.com/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/291033/real-broker-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2025-04-09 3:25:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "248-4000",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.dericburton.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://ca.linkedin.com/in/dericburton?trk=people-",
+              "WebsiteTypeId": "3"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "574805728"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1013568.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Deric A.",
+          "LastName": "Burton",
+          "CccMember": true,
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1445413/deric-a-burton-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1013568.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$398,893",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "73 Tararidge Circle NE|Calgary, Alberta T3J3W4",
+          "Longitude": "-113.943559662",
+          "Latitude": "51.111427284",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS638850906563700000/reb9/highres/3/A2229303_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS638850906563700000/reb9/medres/3/A2229303_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS638850906563700000/reb9/lowres/3/A2229303_1.jpg",
+            "Description": "73 Tararidge Circle NE",
+            "LastUpdated": "2025-06-09 6:30:56 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "1"
+          }
+        ],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          2
+        ],
+        "ParkingType": "Attached Garage (1)",
+        "PriceUnformattedValue": "398893",
+        "ShortValue": "399K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "Unknown",
+        "LandscapeFeatures": "Lawn"
+      },
+      "AlternateURL": {
+        "MapLink": "https://maps.app.goo.gl/YG82RTBThzteQGb6A",
+        "VideoLink": "https://booking.peakrealtyphotos.ca/sites/73-tararidge-cir-ne-calgary-ab-t3j-3w4-16760261/branded"
+      },
+      "PostalCode": "T3J3W4",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28441500/73-tararidge-circle-ne-calgary-taradale",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2025-06-09 10:30:56 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28441500/73-tararidge-circle-ne-calgary-taradale",
+      "RelativeURLFr": "/immobilier/28441500/73-tararidge-circle-ne-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://booking.peakrealtyphotos.ca/sites/73-tararidge-cir-ne-calgary-ab-t3j-3w4-16760261/branded",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "Other"
+        },
+        {
+          "MediaCategoryId": "7",
+          "MediaCategoryURL": "https://maps.app.goo.gl/YG82RTBThzteQGb6A",
+          "Description": "MapWebsite",
+          "Order": 6
+        }
+      ],
+      "InsertedDateUTC": "638851050563630000",
+      "TimeOnRealtor": "8 hours ago",
+      "Tags": [
+        {
+          "Label": "8 hours ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    }
+  ],
+  "Pins": [],
+  "GroupingLevel": ""
+}

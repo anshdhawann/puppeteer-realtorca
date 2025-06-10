@@ -1,0 +1,587 @@
+[
+  {
+    "realtorCaListingId": "28442908",
+    "mlsNumber": "A2229027",
+    "listingFullAddress": "902, 118 Waterfront Court SW|Calgary, Alberta T2P0W3",
+    "listingLink": "https://www.realtor.ca/real-estate/28442908/902-118-waterfront-court-sw-calgary-eau-claire",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$875,000",
+    "priceUnformatted": "875000",
+    "buildingType": "Apartment",
+    "sizeInterior": "984.08 sqft",
+    "timeOnRealtor": "2 hours ago",
+    "realtorName": "Breanna Albrecht",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "587-700-7123"
+      },
+      {
+        "type": "Fax",
+        "number": "403-255-8606"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "https://linktr.ee/ateamcalgary",
+        "WebsiteTypeId": "1"
+      },
+      {
+        "Website": "http://facebook.com/ateamyyc",
+        "WebsiteTypeId": "2"
+      },
+      {
+        "Website": "https://www.linkedin.com/in/breanna-albrecht-343b3081/",
+        "WebsiteTypeId": "3"
+      },
+      {
+        "Website": "http://x.com/ateamyyc",
+        "WebsiteTypeId": "4"
+      },
+      {
+        "Website": "http://instagram.com/ateamcalgary",
+        "WebsiteTypeId": "5"
+      },
+      {
+        "Website": "http://youtu.be/pb4kJz_e4XI?si=_1p1TnqTXFoT1AUu",
+        "WebsiteTypeId": "7"
+      }
+    ],
+    "brokerageName": "RE/MAX First",
+    "brokerageAddress": "115, 8820 BLACKFOOT TRAIL S.E.|CALGARY, Alberta T2J3J1",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-278-2900"
+      },
+      {
+        "type": "Fax",
+        "number": "403-255-8606"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": []
+  },
+  {
+    "realtorCaListingId": "28442907",
+    "mlsNumber": "A2229098",
+    "listingFullAddress": "209 Patina Park SW|Calgary, Alberta T3H3E3",
+    "listingLink": "https://www.realtor.ca/real-estate/28442907/209-patina-park-sw-calgary-patterson",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$495,000",
+    "priceUnformatted": "495000",
+    "buildingType": "Row / Townhouse",
+    "sizeInterior": "1354.79 sqft",
+    "timeOnRealtor": "2 hours ago",
+    "realtorName": "Johanna Rodriguez",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-618-5917"
+      },
+      {
+        "type": "Fax",
+        "number": "403-272-2145"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "http://www.johahomes.com/",
+        "WebsiteTypeId": "1"
+      },
+      {
+        "Website": "https://www.facebook.com/johahomes/",
+        "WebsiteTypeId": "2"
+      },
+      {
+        "Website": "https://www.linkedin.com/in/johanna-rodriguez-23352520/",
+        "WebsiteTypeId": "3"
+      },
+      {
+        "Website": "https://twitter.com/johannashomes",
+        "WebsiteTypeId": "4"
+      },
+      {
+        "Website": "https://www.instagram.com/johahomes/",
+        "WebsiteTypeId": "5"
+      }
+    ],
+    "brokerageName": "MaxWell Experts Plus Realty",
+    "brokerageAddress": "705 EAST CHESTERMERE DRIVE|CHESTERMERE, Alberta T1X1A5",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-272-2141"
+      },
+      {
+        "type": "Fax",
+        "number": "403-272-2145"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": []
+  },
+  {
+    "realtorCaListingId": "28442884",
+    "mlsNumber": "A2229527",
+    "listingFullAddress": "401, 3820 Brentwood Road NW|Calgary, Alberta T2L2L5",
+    "listingLink": "https://www.realtor.ca/real-estate/28442884/401-3820-brentwood-road-nw-calgary-brentwood",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$339,900",
+    "priceUnformatted": "339900",
+    "buildingType": "Apartment",
+    "sizeInterior": "622 sqft",
+    "timeOnRealtor": "2 hours ago",
+    "realtorName": "Candace Wu",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-561-2456"
+      },
+      {
+        "type": "Fax",
+        "number": "888-239-4659"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "http://www.perfecthomes.ca",
+        "WebsiteTypeId": "1"
+      }
+    ],
+    "brokerageName": "2% Realty",
+    "brokerageAddress": "400, 909 17 Ave S.W.|CALGARY, Alberta T2T0A4",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-606-3500"
+      },
+      {
+        "type": "Fax",
+        "number": "888-239-4659"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": [
+      {
+        "ContactId": "554869748"
+      }
+    ]
+  },
+  {
+    "realtorCaListingId": "28442389",
+    "mlsNumber": "A2228351",
+    "listingFullAddress": "12, 21 McKenzie Towne Gate SE|Calgary, Alberta T2Z0C5",
+    "listingLink": "https://www.realtor.ca/real-estate/28442389/12-21-mckenzie-towne-gate-se-calgary-mckenzie-towne",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$369,900",
+    "priceUnformatted": "369900",
+    "buildingType": "Row / Townhouse",
+    "sizeInterior": "927 sqft",
+    "timeOnRealtor": "5 hours ago",
+    "realtorName": "Corey Cameron",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-919-9193"
+      },
+      {
+        "type": "Fax",
+        "number": "403-648-2765"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "http://coreycameron.com/",
+        "WebsiteTypeId": "1"
+      },
+      {
+        "Website": "https://www.facebook.com/profile.php?id=1000844200",
+        "WebsiteTypeId": "2"
+      },
+      {
+        "Website": "https://www.linkedin.com/in/corey-cameron-ab96b44b",
+        "WebsiteTypeId": "3"
+      },
+      {
+        "Website": "https://twitter.com/CoreyCameronYYC",
+        "WebsiteTypeId": "4"
+      }
+    ],
+    "brokerageName": "eXp Realty",
+    "brokerageAddress": "700 - 1816 Crowchild Trail NW|CALGARY, Alberta T2M3Y7",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-262-7653"
+      },
+      {
+        "type": "Fax",
+        "number": "403-648-2765"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": [
+      {
+        "ContactId": "563452819"
+      }
+    ]
+  },
+  {
+    "realtorCaListingId": "28442305",
+    "mlsNumber": "A2229110",
+    "listingFullAddress": "315, 7130 80 Ave Avenue NE|Calgary, Alberta T3J0N5",
+    "listingLink": "https://www.realtor.ca/real-estate/28442305/315-7130-80-ave-avenue-ne-calgary-saddle-ridge",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$317,998",
+    "priceUnformatted": "317998",
+    "buildingType": "Apartment",
+    "sizeInterior": "756 sqft",
+    "timeOnRealtor": "5 hours ago",
+    "realtorName": "Waja Feroz",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-700-4444"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "https://wajahomes.ca/",
+        "WebsiteTypeId": "1"
+      },
+      {
+        "Website": "https://www.facebook.com/wajatherealtor",
+        "WebsiteTypeId": "2"
+      },
+      {
+        "Website": "https://www.linkedin.com/in/waja-feroz-83992a246/",
+        "WebsiteTypeId": "3"
+      },
+      {
+        "Website": "https://twitter.com/wajatherealtor",
+        "WebsiteTypeId": "4"
+      },
+      {
+        "Website": "https://www.instagram.com/wajatherealtor/",
+        "WebsiteTypeId": "5"
+      }
+    ],
+    "brokerageName": "RE/MAX Real Estate (Mountain View)",
+    "brokerageAddress": "101, 110 COUNTRY HILLS LANDING NW|CALGARY, Alberta T3K5P3",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-247-5178"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": []
+  },
+  {
+    "realtorCaListingId": "28442236",
+    "mlsNumber": "A2229470",
+    "listingFullAddress": "2405, 220 12 Avenue SE|Calgary, Alberta T2G0R5",
+    "listingLink": "https://www.realtor.ca/real-estate/28442236/2405-220-12-avenue-se-calgary-beltline",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$799,900",
+    "priceUnformatted": "799900",
+    "buildingType": "Apartment",
+    "sizeInterior": "1425.05 sqft",
+    "timeOnRealtor": "6 hours ago",
+    "realtorName": "Scott Brayshaw",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-988-6835"
+      },
+      {
+        "type": "Fax",
+        "number": "403-228-5425"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "https://scottbrayshaw.realtor/",
+        "WebsiteTypeId": "1"
+      },
+      {
+        "Website": "https://www.facebook.com/ScottBrayshawRealEstate",
+        "WebsiteTypeId": "2"
+      },
+      {
+        "Website": "https://www.linkedin.com/in/scott-brayshaw-a511634/",
+        "WebsiteTypeId": "3"
+      }
+    ],
+    "brokerageName": "RE/MAX iRealty Innovations",
+    "brokerageAddress": "100, 1301 8 STREET S.W.|CALGARY, Alberta T2R1B7",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-228-5557"
+      },
+      {
+        "type": "Fax",
+        "number": "403-228-5425"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": [
+      {
+        "ContactId": "541447957"
+      }
+    ]
+  },
+  {
+    "realtorCaListingId": "28442219",
+    "mlsNumber": "A2228687",
+    "listingFullAddress": "507, 303 13 Avenue SW|Calgary, Alberta T2R0Y9",
+    "listingLink": "https://www.realtor.ca/real-estate/28442219/507-303-13-avenue-sw-calgary-beltline",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$399,000",
+    "priceUnformatted": "399000",
+    "buildingType": "Apartment",
+    "sizeInterior": "778.49 sqft",
+    "timeOnRealtor": "6 hours ago",
+    "realtorName": "Ellyn Mendham",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-804-7777"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "http://www.calgaryrealestatesolutions.com/",
+        "WebsiteTypeId": "1"
+      }
+    ],
+    "brokerageName": "RE/MAX Realty Professionals",
+    "brokerageAddress": "#10, 6020 - 1A STREET S.W.|CALGARY, Alberta T2H0G3",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-259-4141"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": []
+  },
+  {
+    "realtorCaListingId": "28442190",
+    "mlsNumber": "A2221436",
+    "listingFullAddress": "405, 1313 Cameron Avenue SW|Calgary, Alberta T2T0L2",
+    "listingLink": "https://www.realtor.ca/real-estate/28442190/405-1313-cameron-avenue-sw-calgary-lower-mount-royal",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$379,000",
+    "priceUnformatted": "379000",
+    "buildingType": "Apartment",
+    "sizeInterior": "1016 sqft",
+    "timeOnRealtor": "6 hours ago",
+    "realtorName": "Monalei D. Dallmann",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-614-5884"
+      }
+    ],
+    "realtorWebsites": [],
+    "brokerageName": "MaxWell Canyon Creek",
+    "brokerageAddress": "#203, 20 SUNPARK PLAZA SE|CALGARY, Alberta T2X3T2",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-278-8899"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": []
+  },
+  {
+    "realtorCaListingId": "28441944",
+    "mlsNumber": "A2228165",
+    "listingFullAddress": "169 Hamptons Link NW|Calgary, Alberta T3A5V9",
+    "listingLink": "https://www.realtor.ca/real-estate/28441944/169-hamptons-link-nw-calgary-hamptons",
+    "ownershipType": "Bare Land Condo",
+    "priceFormatted": "$725,000",
+    "priceUnformatted": "725000",
+    "buildingType": "Row / Townhouse",
+    "sizeInterior": "1177 sqft",
+    "timeOnRealtor": "7 hours ago",
+    "realtorName": "Brian Selders",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-585-3416"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "http://calgary-villa-realtor-brian.ca/",
+        "WebsiteTypeId": "1"
+      }
+    ],
+    "brokerageName": "RE/MAX Complete Realty",
+    "brokerageAddress": "29A  Elizabeth Street|Okotoks, Alberta T1S1A8",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "403-861-3498"
+      }
+    ],
+    "brokerageWebsites": [],
+    "brokerageEmails": []
+  },
+  {
+    "realtorCaListingId": "28441926",
+    "mlsNumber": "A2227228",
+    "listingFullAddress": "35 Crestbrook Drive SW|Calgary, Alberta T3B6L1",
+    "listingLink": "https://www.realtor.ca/real-estate/28441926/35-crestbrook-drive-sw-calgary-crestmont",
+    "ownershipType": "Bare Land Condo",
+    "priceFormatted": "$600,000",
+    "priceUnformatted": "600000",
+    "buildingType": "Row / Townhouse",
+    "sizeInterior": "1430.2 sqft",
+    "timeOnRealtor": "7 hours ago",
+    "realtorName": "Dusko Sremac",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-988-0033"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "https://www.repcalgaryhomes.ca/",
+        "WebsiteTypeId": "1"
+      },
+      {
+        "Website": "https://www.facebook.com/repyyc",
+        "WebsiteTypeId": "2"
+      },
+      {
+        "Website": "https://www.calgaryluxuryrealestate.com/",
+        "WebsiteTypeId": "3"
+      },
+      {
+        "Website": "https://www.twitter.com/repyyc",
+        "WebsiteTypeId": "4"
+      },
+      {
+        "Website": "https://www.instagram.com/duskosremac_repyyc/",
+        "WebsiteTypeId": "5"
+      },
+      {
+        "Website": "https://www.youtube.com/@Dusko-CalgaryHomes",
+        "WebsiteTypeId": "7"
+      }
+    ],
+    "brokerageName": "Real Broker",
+    "brokerageAddress": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "855-623-6900"
+      }
+    ],
+    "brokerageWebsites": [
+      {
+        "Website": "http://www.joinreal.com/",
+        "WebsiteTypeId": "1"
+      }
+    ],
+    "brokerageEmails": [
+      {
+        "ContactId": "574716474"
+      }
+    ]
+  },
+  {
+    "realtorCaListingId": "28441701",
+    "mlsNumber": "A2229218",
+    "listingFullAddress": "235 sage hill Rise NW|Calgary, Alberta t3r0z8",
+    "listingLink": "https://www.realtor.ca/real-estate/28441701/235-sage-hill-rise-nw-calgary-sage-hill",
+    "ownershipType": "Bare Land Condo",
+    "priceFormatted": "$549,900",
+    "priceUnformatted": "549900",
+    "buildingType": "Row / Townhouse",
+    "sizeInterior": "1610 sqft",
+    "timeOnRealtor": "8 hours ago",
+    "realtorName": "Melissa Sanregret",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "780-886-3621"
+      }
+    ],
+    "realtorWebsites": [],
+    "brokerageName": "Real Broker",
+    "brokerageAddress": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "855-623-6900"
+      }
+    ],
+    "brokerageWebsites": [
+      {
+        "Website": "http://www.joinreal.com/",
+        "WebsiteTypeId": "1"
+      }
+    ],
+    "brokerageEmails": [
+      {
+        "ContactId": "574716474"
+      }
+    ]
+  },
+  {
+    "realtorCaListingId": "28441500",
+    "mlsNumber": "A2229303",
+    "listingFullAddress": "73 Tararidge Circle NE|Calgary, Alberta T3J3W4",
+    "listingLink": "https://www.realtor.ca/real-estate/28441500/73-tararidge-circle-ne-calgary-taradale",
+    "ownershipType": "Condominium/Strata",
+    "priceFormatted": "$398,893",
+    "priceUnformatted": "398893",
+    "buildingType": "Row / Townhouse",
+    "sizeInterior": "1071.51 sqft",
+    "timeOnRealtor": "8 hours ago",
+    "realtorName": "Deric A. Burton",
+    "realtorPhones": [
+      {
+        "type": "Telephone",
+        "number": "403-248-4000"
+      }
+    ],
+    "realtorWebsites": [
+      {
+        "Website": "https://www.dericburton.com/",
+        "WebsiteTypeId": "1"
+      },
+      {
+        "Website": "https://ca.linkedin.com/in/dericburton?trk=people-",
+        "WebsiteTypeId": "3"
+      }
+    ],
+    "brokerageName": "Real Broker",
+    "brokerageAddress": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+    "brokeragePhones": [
+      {
+        "type": "Telephone",
+        "number": "855-623-6900"
+      }
+    ],
+    "brokerageWebsites": [
+      {
+        "Website": "http://www.joinreal.com/",
+        "WebsiteTypeId": "1"
+      }
+    ],
+    "brokerageEmails": [
+      {
+        "ContactId": "574716474"
+      }
+    ]
+  }
+]
