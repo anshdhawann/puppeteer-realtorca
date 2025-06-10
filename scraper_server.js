@@ -13,61 +13,114 @@ const CONFIG = {
     MAP_URL: 'https://www.realtor.ca/map#view=list&Sort=6-D&GeoIds=g30_c3nfkdtg&GeoName=Calgary%2C%20AB&PropertyTypeGroupID=1&TransactionTypeId=2&PropertySearchTypeId=3&NumberOfDays=1&OwnershipTypeGroupId=2&Currency=CAD',
     API_URL: 'https://api2.realtor.ca/Listing.svc/PropertySearch_Post',
     USER_AGENT: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
-    TIMEOUT_MS: 90000, 
+    
+    // --- Timeout and Retry Settings ---
+    ATTEMPT_TIMEOUT_MS: 90000, // 90 seconds for each full attempt (Adjust based on Render performance)
+    MAX_RETRY_ATTEMPTS: 2,     // 1 initial attempt + 2 retries = 3 total attempts.
+    // --- End Timeout and Retry Settings ---
+
     HEADLESS: true, // MUST BE TRUE for server deployment on Render
-    // For Docker deployment where Chrome is installed via Dockerfile:
     EXECUTABLE_PATH: '/usr/bin/google-chrome-stable', // Standard path if installed via apt in Docker
-    // If NOT using Docker and relying on Render's native Node + Puppeteer's bundled Chromium, 
-    // you might try setting EXECUTABLE_PATH to null or process.env.PUPPETEER_EXECUTABLE_PATH
-    // but Docker is more reliable.
-    BLOCKED_RESOURCE_TYPES: ['image', 'media', 'font', 'stylesheet', 'other'],
-    BLOCKED_URL_PATTERNS: ['.css', 'google-analytics', 'googletagmanager', 'doubleclick', 'scorecardresearch', 'youtube', 'intergient'],
+    BLOCKED_RESOURCE_TYPES: ['image', 'media', 'font', 'stylesheet', 'other'], // Keep stylesheet blocked for server
+    BLOCKED_URL_PATTERNS: ['.css', 'google-analytics', 'googletagmanager', 'doubleclick', 'scorecardresearch', 'youtube', 'intergient'], // Keep .css blocked
 };
 
-async function runScraper(browser) {
-    console.log("Setting up page...");
-    const page = await browser.newPage();
-    try {
-        await page.setUserAgent(CONFIG.USER_AGENT);
-        await page.setViewport({ width: 1280, height: 800 });
-        await page.setRequestInterception(true);
+// Updated runScraper function with retry logic
+async function runScraperWithRetry(browser) {
+    let page;
+    let lastError = null;
 
-        page.on('request', (request) => {
-            const url = request.url();
-            const resourceType = request.resourceType();
-            if (CONFIG.BLOCKED_RESOURCE_TYPES.includes(resourceType) || CONFIG.BLOCKED_URL_PATTERNS.some(pattern => url.includes(pattern))) {
-                request.abort();
-            } else {
-                request.continue();
+    for (let attempt = 1; attempt <= CONFIG.MAX_RETRY_ATTEMPTS + 1; attempt++) {
+        console.log(`--- Attempt #${attempt} of ${CONFIG.MAX_RETRY_ATTEMPTS + 1} ---`);
+        try {
+            if (page && !page.isClosed()) {
+                console.log("Closing previous page before new attempt...");
+                await page.close();
             }
-        });
+            page = await browser.newPage();
+            console.log("Setting up new page for attempt...");
 
-        console.log(`Waiting for API: ${CONFIG.API_URL}`);
-        const apiResponsePromise = page.waitForResponse(
-            (response) => response.url() === CONFIG.API_URL && response.request().method() === 'POST',
-            { timeout: CONFIG.TIMEOUT_MS }
-        );
+            // Optional: Add page error listeners for debugging on Render
+            page.on('pageerror', function(err) {
+                const theTempValue = err.toString();
+                console.log('[PAGE JS ERROR on Render attempt #' + attempt + ']: ' + theTempValue);
+            });
+            page.on('error', function(err) { 
+                const theTempValue = err.toString();
+                console.log('[PAGE CRASH/OTHER ERROR on Render attempt #' + attempt + ']: ' + theTempValue);
+            });
 
-        console.log(`Navigating to: ${CONFIG.MAP_URL}`);
-        await page.goto(CONFIG.MAP_URL, { waitUntil: 'networkidle0', timeout: CONFIG.TIMEOUT_MS });
-        try { await page.evaluate(() => window.scrollBy(0, 50)); } catch (e) { console.warn("Scroll failed, continuing..."); }
+            await page.setUserAgent(CONFIG.USER_AGENT);
+            await page.setViewport({ width: 1280, height: 800 });
+            await page.setRequestInterception(true);
 
-        console.log("Awaiting API response...");
-        const response = await apiResponsePromise;
-        console.log(`API Response Status: ${response.status()}`);
-        if (!response.ok()) {
-            const text = await response.text();
-            throw new Error(`API HTTP Error ${response.status()} ${response.statusText()}. Body: ${text.substring(0, 200)}`);
-        }
-        const data = await response.json();
-        console.log("API response JSON parsed.");
-        return data; // Returns the raw JSON data from the API
-    } finally {
-        if (page && !page.isClosed()) {
-            await page.close();
+            page.on('request', (request) => {
+                const url = request.url();
+                const resourceType = request.resourceType();
+                if (
+                    CONFIG.BLOCKED_RESOURCE_TYPES.includes(resourceType) ||
+                    CONFIG.BLOCKED_URL_PATTERNS.some(pattern => url.includes(pattern))
+                ) {
+                    request.abort();
+                } else {
+                    request.continue();
+                }
+            });
+
+            const apiResponsePromiseForAttempt = page.waitForResponse(
+                (response) => response.url() === CONFIG.API_URL && response.request().method() === 'POST',
+                { timeout: CONFIG.ATTEMPT_TIMEOUT_MS } 
+            );
+
+            console.log(`Navigating to: ${CONFIG.MAP_URL} (Timeout: ${CONFIG.ATTEMPT_TIMEOUT_MS / 1000}s)`);
+            await page.goto(CONFIG.MAP_URL, { 
+                waitUntil: 'networkidle2', 
+                timeout: CONFIG.ATTEMPT_TIMEOUT_MS,
+            });
+            console.log("Navigation complete for this attempt.");
+
+            try {
+                await page.evaluate(() => window.scrollBy(0, 100));
+                console.log("Page scrolled.");
+            } catch (e) { 
+                console.warn("Scroll failed, continuing...");
+            }
+
+            console.log(`Awaiting API response (Timeout: ${CONFIG.ATTEMPT_TIMEOUT_MS / 1000}s allocated for nav+wait)...`);
+            const response = await apiResponsePromiseForAttempt; 
+
+            console.log(`API Response Status: ${response.status()}`);
+            if (!response.ok()) {
+                const text = await response.text();
+                const errorMsg = `API HTTP Error ${response.status()} ${response.statusText()}. Body: ${text.substring(0, 200)}`;
+                console.error(errorMsg);
+                throw new Error(errorMsg);
+            }
+
+            const data = await response.json();
+            console.log("API response JSON parsed successfully on attempt #" + attempt);
+            if (page && !page.isClosed()) await page.close();
+            return data;
+
+        } catch (error) {
+            lastError = error; 
+            console.error(`Attempt #${attempt} failed: ${error.message}`);
+            if (error.name === 'TimeoutError') {
+                console.error(error.stack);
+            }
+            if (attempt > CONFIG.MAX_RETRY_ATTEMPTS) {
+                console.error("Max retry attempts reached. Failing operation.");
+                if (page && !page.isClosed()) await page.close();
+                throw lastError; 
+            }
+            console.log("Preparing for next attempt after a short delay...");
+            await new Promise(resolve => setTimeout(resolve, 5000)); // 5-second delay
         }
     }
+    if (page && !page.isClosed()) await page.close();
+    throw lastError || new Error("Scraping failed after all attempts; unknown state.");
 }
+
 
 app.get('/run-scrape', async (req, res) => {
     console.log("Received request to /run-scrape");
@@ -85,23 +138,24 @@ app.get('/run-scrape', async (req, res) => {
                 '--disable-accelerated-2d-canvas',
                 '--no-first-run',
                 '--no-zygote',
-                '--disable-gpu' // Often recommended for server environments
+                '--disable-gpu'
             ],
             ignoreHTTPSErrors: true,
         };
-        // Only set executablePath if it's explicitly defined in CONFIG
         if (CONFIG.EXECUTABLE_PATH) {
             launchOptions.executablePath = CONFIG.EXECUTABLE_PATH;
         }
         
         browser = await puppeteer.launch(launchOptions);
 
-        const scrapedData = await runScraper(browser); // This is the raw JSON from Realtor's API
+        // Call the new function with retry logic
+        const scrapedData = await runScraperWithRetry(browser); 
+        
         console.log("Scraping successful, sending data back.");
-        res.json(scrapedData); // Send this raw data
+        res.json(scrapedData);
 
     } catch (error) {
-        console.error("Error during scraping:", error.message || error);
+        console.error("Error during scraping (/run-scrape handler):", error.message || error);
         console.error(error.stack);
         res.status(500).json({ error: 'Failed to scrape data', details: error.message });
     } finally {
@@ -113,7 +167,7 @@ app.get('/run-scrape', async (req, res) => {
     }
 });
 
-app.get('/health', (req, res) => { // Health check endpoint for Render
+app.get('/health', (req, res) => {
     res.status(200).send('OK');
 });
 
